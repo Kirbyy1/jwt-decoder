@@ -26,7 +26,7 @@ The package operates through the following steps:
 To utilize this package, import it into your Go project and invoke the `DecodeJWT` function with the JWT string as an argument. The function will return the claims as a JSON-encoded string.
 
 ```go
-import "github.com/your-username/jwtdecoder"
+import "https://github.com/Kirbyy1/jwt-decoder"
 
 func main() {
     token := "your.jwt.token.here"
